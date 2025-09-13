@@ -1,20 +1,161 @@
-[
-  {
-    "checkInDate": "2025-09-10",
-    "checkOutDate": "2025-09-20",
-    "extendedPrice": 73.81555,
-    "featureImage": "https://picsum.photos/200",
-    "id": 1,
-    "rate": 1.2487566,
-    "title": "cellar"
-  },
-  {
-    "checkInDate": "2025-09-11",
-    "checkOutDate": "2025-09-30",
-    "extendedPrice": 93.8213,
-    "featureImage": "https://picsum.photos/200",
-    "id": 2,
-    "rate": 4.8179936,
-    "title": "hallway"
-  }
-]
+[ {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 66.00855,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 1,
+  "rate" : 1.5406412,
+  "title" : "master bedroom"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 73.55643,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 2,
+  "rate" : 0.14181018,
+  "title" : "attic"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 48.013115,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 3,
+  "rate" : 0.08086294,
+  "title" : "bathroom"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 39.936787,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 4,
+  "rate" : 3.6731954,
+  "title" : "conservatory"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 98.07888,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 5,
+  "rate" : 4.2590494,
+  "title" : "reception room"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 95.97281,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 6,
+  "rate" : 1.5176632,
+  "title" : "sunroom"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 52.782146,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 7,
+  "rate" : 2.2971306,
+  "title" : "hallway"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 68.968925,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 8,
+  "rate" : 4.106986,
+  "title" : "hallway"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 1.0505021,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 9,
+  "rate" : 1.893183,
+  "title" : "kitchen"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 92.006454,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 10,
+  "rate" : 1.1083708,
+  "title" : "guest room"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 17.310005,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 11,
+  "rate" : 0.084109604,
+  "title" : "living room"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 63.47683,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 12,
+  "rate" : 0.09784728,
+  "title" : "bathroom"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 76.081345,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 13,
+  "rate" : 0.6208798,
+  "title" : "pantry"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 77.79082,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 14,
+  "rate" : 3.0511827,
+  "title" : "living room"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 34.657333,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 15,
+  "rate" : 4.9631433,
+  "title" : "conservatory"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 52.02375,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 16,
+  "rate" : 0.20765841,
+  "title" : "pantry"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 19.981462,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 17,
+  "rate" : 1.1570272,
+  "title" : "porch"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 57.940895,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 18,
+  "rate" : 4.216622,
+  "title" : "conservatory"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 37.665527,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 19,
+  "rate" : 1.9027188,
+  "title" : "cellar"
+}, {
+  "checkInDate" : "2025-09-10",
+  "checkOutDate" : "2025-09-20",
+  "extendedPrice" : 13.839131,
+  "featureImage" : "https://picsum.photos/200",
+  "id" : 20,
+  "rate" : 3.4839048,
+  "title" : "drawing room"
+} ]
